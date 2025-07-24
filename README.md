@@ -32,3 +32,7 @@ This project demonstrates a deep learning-based approach to facial emotion detec
   Open Face_ExpressionAI_train.ipynb and run all cells.
 - Test the model:
   python ModelTest.py
+
+## 📦 Dataset
+The training and testing data used in this project were sourced from kaggle ([https://www.kaggle.com/...](https://www.kaggle.com/datasets/msambare/fer2013/data)) 
+*Note : this dataset is already included in repository 

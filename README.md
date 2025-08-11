@@ -15,12 +15,12 @@ This project demonstrates a deep learning-based approach to facial emotion detec
 
 
 ## Project Structure
-├── face_classifier/           # to classify face from images 
-├── model/                     # Pre-trained AI model files
-├── ModelTest.py               # Script for testing the model
-├── train_data/                # Dataset used for training
-├── test_data/                 # Dataset used for testing
-└── Face_ExpressionAI_train.ipynb  # Jupyter Notebook for training
+├── face_classifier/           
+├── model/                     
+├── ModelTest.py              
+├── train_data/                
+├── test_data/                 
+└── Face_ExpressionAI_train.ipynb
 
 ## Installation
 1. Clone this repository:

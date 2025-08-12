@@ -37,4 +37,3 @@ This project demonstrates a deep learning-based approach to facial emotion detec
 
 ## 📦 Dataset
 The training and testing data used in this project were sourced from kaggle ([https://www.kaggle.com/...](https://www.kaggle.com/datasets/msambare/fer2013/data)) 
-*Note : this dataset is already included in repository 

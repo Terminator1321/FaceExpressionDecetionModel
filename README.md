@@ -29,7 +29,7 @@ This project demonstrates a deep learning-based approach to facial emotion detec
 2. Install dependencies:
    pip install -r requirements.txt
 
-Or download the zip file (which will also include the data set
+Or download the zip file (which will also include the data set)
 
 ## Usage
 - Train the model:
